@@ -1,21 +1,60 @@
 :any-link { 
 
     color: #FF0000; }
-    
 
- td {
-     border: 1px solid #333;
-    }
-            
-    thead,
-    tfoot {
-         background-color: #333;
-         color: #fff;
-     }
+a:hover{
+   background-color: red
+}
+html{
+    text-size-adjust: 160%;
+    width: 901px;
+    height: 651px;
+    padding-left: 14px;
+    padding-top: 14px;
+    padding-right: 14px;
+    padding-bottom: 14px;
+    border: 1px solid #FF0000 ; 
+    margin-top: 0px;
+    margin-bottom: 20px;
+    border-bottom-width: 0px;
+    border-left-width: 5px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    
+}
+
+
+body{
+    width: 90%;
+    margin: center;
+    background-color: #14375A;
+    color:white;
+    background-image: url("black-fire.jpeg") 
+    
+}
+
+
+table{
+    border: 1px solid;
+}
+  
      p{
       font-family: serif;
-         color: #333;
+         color: white;
+         
+         
       }
+      td {
+        border: 1px solid #333;
+       }
+               
+       thead,
+       tfoot {
+            background-color: #333;
+            color: #fff;
+        }
+
+
 
             
 
@@ -26,6 +65,9 @@
             span.bad {
                 color:red;
 
+            }
+            footer{
+                text-align: center;
             }
           
         
