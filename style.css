@@ -1,0 +1,31 @@
+:any-link { 
+
+    color: #FF0000; }
+    
+
+ td {
+     border: 1px solid #333;
+    }
+            
+    thead,
+    tfoot {
+         background-color: #333;
+         color: #fff;
+     }
+     p{
+      font-family: serif;
+         color: #333;
+      }
+
+            
+
+            span.good {
+                color:rgb(79, 143, 79);
+
+            }
+            span.bad {
+                color:red;
+
+            }
+          
+        
